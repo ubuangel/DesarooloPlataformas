@@ -1,0 +1,10 @@
+/home/angel/Springboot/odotCore/src/test/java/com/makotojava/learn/odot/TestConfiguration.java
+/home/angel/Springboot/odotCore/src/test/java/com/makotojava/learn/odot/model/ItemTest.java
+/home/angel/Springboot/odotCore/src/test/java/com/makotojava/learn/odot/dao/CategoryDaoTest.java
+/home/angel/Springboot/odotCore/src/test/java/com/makotojava/learn/odot/TestConfigurationEmptyDb.java
+/home/angel/Springboot/odotCore/src/test/java/com/makotojava/learn/odot/model/Categories.java
+/home/angel/Springboot/odotCore/src/test/java/com/makotojava/learn/odot/TestCategoryDaoConfiguration.java
+/home/angel/Springboot/odotCore/src/test/java/com/makotojava/learn/odot/TestConfigurationNullDataSource.java
+/home/angel/Springboot/odotCore/src/test/java/com/makotojava/learn/odot/dao/ItemDaoTest.java
+/home/angel/Springboot/odotCore/src/test/java/com/makotojava/learn/odot/model/CategoryTest.java
+/home/angel/Springboot/odotCore/src/test/java/com/makotojava/learn/odot/model/Items.java

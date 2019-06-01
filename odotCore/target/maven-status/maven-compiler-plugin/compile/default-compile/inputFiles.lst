@@ -1,0 +1,11 @@
+/home/angel/Springboot/odotCore/src/main/java/com/makotojava/learn/odot/model/Category.java
+/home/angel/Springboot/odotCore/src/main/java/com/makotojava/learn/odot/service/ItemService.java
+/home/angel/Springboot/odotCore/src/main/java/com/makotojava/learn/odot/config/AbstractApplicationConfiguration.java
+/home/angel/Springboot/odotCore/src/main/java/com/makotojava/learn/odot/model/Item.java
+/home/angel/Springboot/odotCore/src/main/java/com/makotojava/learn/odot/dao/ItemDao.java
+/home/angel/Springboot/odotCore/src/main/java/com/makotojava/learn/odot/dao/CategoryDao.java
+/home/angel/Springboot/odotCore/src/main/java/com/makotojava/learn/odot/config/DatabaseConfiguration.java
+/home/angel/Springboot/odotCore/src/main/java/com/makotojava/learn/odot/exception/ServiceException.java
+/home/angel/Springboot/odotCore/src/main/java/com/makotojava/learn/odot/exception/EntityPersistenceException.java
+/home/angel/Springboot/odotCore/src/main/java/com/makotojava/learn/odot/model/AbstractEntity.java
+/home/angel/Springboot/odotCore/src/main/java/com/makotojava/learn/odot/service/CategoryService.java
